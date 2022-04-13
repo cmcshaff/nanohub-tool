@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/multicellularv2.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/multicellularv2.py</PythonScript>
+   <Resource Type="Python">Simulation/multicellularv2Steppables.py</Resource>
+</Simulation>
